@@ -54,7 +54,7 @@ account.
 - Email notification module
 
 ## Contributors
-- Neelansh Gulati : neelanshgulati100@gmail.com / nl429326@dal.ca.
+- Neelansh Gulati : nl429326@dal.ca.
 - Parth Gondaliya : pr963683@dal.ca.
 - Hardee : hardee.garala@dal.ca.
 - Taun Hamid : tn220771@dal.ca.
